@@ -1,0 +1,8 @@
+{
+  "db_path": "~/.watcher/watcher.db",
+  "scripts_dir": "~/.watcher/scripts",
+  "logs_dir": "~/.watcher/logs",
+  "listen_addr": ":8082",
+  "prune_interval": "60s",
+  "enable_api": false
+}
